@@ -78,15 +78,7 @@
 </span>
 </footer>
 </body>
-<script>
-	function mouseOver(){
-		document.getElementById("mainimg").src="https://ixxz.cn/1/1110/images/tx2.png";//鼠标悬浮时的旋转图标
-	}
-	function mouseOut()
-	{
-		document.getElementById('mainimg').src ="https://ixxz.cn/1/1110/images/tx2.png"//默认的旋转图标
-	}
-</script>
+
 <script type="text/javascript">
 	function change(){
 		var bodyBgs = [];
@@ -97,7 +89,7 @@ bodyBgs[3] = "https://i0.hdslb.com/bfs/album/df2f5cfd19adb59646bd19776f60a20153a
 bodyBgs[4] = "https://i0.hdslb.com/bfs/album/af0ed67624e0217ae072276fb71b6db463256248.jpg";
 bodyBgs[5] = "http://img.netbian.com/file/2019/0125/01a2990f9e6125fa93b01441aab2cc2e.jpg";
 bodyBgs[6] = "http://pic.netbian.com/uploads/allimg/200401/114501-158571270169a9.jpg";
-		var randomBgIndex = Math.round( Math.random() * 7 );
+		var randomBgIndex = Math.round( Math.random() * 6 );
 		var img1= document.getElementById('bgimg');
 		img1.style.backgroundImage='url(' + bodyBgs[randomBgIndex] + ')';
 	        window.setTimeout(function(){change()},10000);
