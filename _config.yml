@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: 风满长川（fm32）
+name: 落红护花
 
 # Short bio or description (displayed in the header)
 description: blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://s2.loli.net/2022/03/16/JFM6I5an1cCeh7w.png
-
+avatar: https://pic.imgdb.cn/item/63f19fbdf144a010074fb046.jpg
 #
 # Flags below are optional
 #
@@ -41,8 +40,8 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://fm323.github.io
-mainurl: https://fm323.github.io
+url: https://winnie2007.github.io
+mainurl: https://winnie2007.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
